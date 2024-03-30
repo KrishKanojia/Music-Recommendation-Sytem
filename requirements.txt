@@ -1,0 +1,8 @@
+python-dotenv
+requests
+spotipy
+pandas
+numpy
+scikit-learn
+DateTime
+ipykernel
