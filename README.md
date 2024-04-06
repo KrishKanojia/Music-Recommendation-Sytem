@@ -34,7 +34,7 @@ Control the trade-off between these recommendations using a hyperparameter - Alp
 
 **Instructions:**
 
-1. Clone this repository. (Replace this step with how you'll deliver your project)
-2. Install dependencies. Run `pip install -r requirements.txt` (assuming you have a `requirements.txt` file specifying needed libraries).
+1. Clone this repository.
+2. Install dependencies. Run `pip install -r requirements.txt`.
 3. Configure access token. Replace the placeholder in `repository.py` with your actual Spotify access token.
 4. Run the Jupyter Notebook. Open `app.ipynb` in your Jupyter Notebook environment.
